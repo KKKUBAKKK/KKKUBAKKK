@@ -7,4 +7,4 @@
 - 📫 How to reach me: kuba.kindracki@gmail.com or jakub.kindracki@gmail.com
 <!--- ⚡ Fun fact: ... -->
 
-![Visitor Count](https://hits.dwyl.com/KKKUBAKKK/KKKUBAKKK.svg)
+  [![HitCount](https://hits.dwyl.com/KKKUBAKKK/KKKUBAKKK.svg?style=flat-square)](http://hits.dwyl.com/KKKUBAKKK/KKKUBAKKK)
