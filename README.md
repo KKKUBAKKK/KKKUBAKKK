@@ -5,9 +5,9 @@
 </div>
 
 - 🎓 I'm a 3rd year CS student at the Warsaw University of Technology
-- 🔭 I’m currently mostly working on some projects for my university 🎓
+- 🔭 I'm currently working as a GPU Software Development Intern at Intel.
 - 🌱 I’m learning algorithms, computer graphics, GPU programming and generally computer science
-- 📫 How to reach me: kuba.kindracki@gmail.com or jakub.kindracki@gmail.com
+- 📫 How to reach me: jakub.kindracki@gmail.com
 - 🤝 My [LinkedIn](https://www.linkedin.com/in/jakub-kindracki/)
 
 <div align="center">
