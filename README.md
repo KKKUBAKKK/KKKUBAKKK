@@ -23,7 +23,7 @@
 ## GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KKKUBAKKK&theme=dark&hide=stars,rank&hide_rank=true&show_icons=true)
 
-## Visitors
-![Visitor Count](https://profile-counter.glitch.me/KKKUBAKKK/count.svg)
+<!-- ## Visitors -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/KKKUBAKKK/count.svg) -->
 
 </div>
