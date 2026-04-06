@@ -4,10 +4,10 @@
 
 </div>
 
-- 🎓 I'm a 3rd year CS student at the Warsaw University of Technology
-- 🔭 I'm currently working as a GPU Software Development Intern at Intel.
-- 🌱 I’m learning algorithms, computer graphics, GPU programming and generally computer science
-- 📫 How to reach me: jakub.kindracki@gmail.com
+- 🔭 GPU Software Development Intern at Intel - working on [NEO](https://github.com/intel/compute-runtime)
+- 🎓 B.Eng. in Computer Science and pursuing a Master's in AI at the Warsaw University of Technology
+- 🌱 Always learning - mostly GPU compute and AI
+- 📫 Reach me at: jakub.kindracki@gmail.com
 - 🤝 My [LinkedIn](https://www.linkedin.com/in/jakub-kindracki/)
 
 <div align="center">
@@ -20,8 +20,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,rider,bash,azure,kotlin,py,pycharm,matlab,clion,cmake,docker,git,github,css,html,qt,r,linux,apple&theme=dark&perline=11)](https://skillicons.dev)
 
-## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KKKUBAKKK&theme=dark&hide=stars,rank&hide_rank=true&show_icons=true)
+<!-- ## GitHub stats -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KKKUBAKKK&theme=dark&hide=stars,rank&hide_rank=true&show_icons=true) -->
 
 <!-- ## Visitors -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/KKKUBAKKK/count.svg) -->
