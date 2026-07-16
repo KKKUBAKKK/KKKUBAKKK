@@ -13,10 +13,10 @@
 <div align="center">
 
 ## Skills and technologies
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-eosin-one-98.vercel.app/api/top-langs/?username=KKKUBAKKK&theme=dark&layout=compact&hide_border=false&count_private=true&hide_title=true" />
 </p>
-<br></br>
+<br></br> -->
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,rider,bash,azure,kotlin,py,pycharm,matlab,clion,cmake,docker,git,github,css,html,qt,r,linux,apple&theme=dark&perline=11)](https://skillicons.dev)
 
